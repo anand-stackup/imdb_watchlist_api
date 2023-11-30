@@ -1,0 +1,26 @@
+[
+  {
+    "id": "tt0499549",
+    "image": "https://m.media-amazon.com/images/M/MV5BZDA0OGQxNTItMDZkMC00N2UyLTg3MzMtYTJmNjg3Nzk5MzRiXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+    "title": "Avatar",
+    "year": 2009
+  },
+  {
+    "id": "tt1950186",
+    "image": "https://m.media-amazon.com/images/M/MV5BM2UwMDVmMDItM2I2Yi00NGZmLTk4ZTUtY2JjNTQ3OGQ5ZjM2XkEyXkFqcGdeQXVyMTA1OTYzOTUx._V1_.jpg",
+    "title": "Ford v Ferrari",
+    "year": 2019
+  },
+  {
+    "id": "tt0211915",
+    "image": "https://m.media-amazon.com/images/M/MV5BNDg4NjM1YjMtYmNhZC00MjM0LWFiZmYtNGY1YjA3MzZmODc5XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_.jpg",
+    "title": "Amélie",
+    "year": 2002
+  },
+  {
+    "id": "tt15654328",
+    "image": "https://m.media-amazon.com/images/M/MV5BMDk0ZmVmMTktOGNiNS00Yzg5LWIzZTAtNjUxZWZhZDljY2Y0XkEyXkFqcGdeQXVyMTY1MzAyNjU4._V1_.jpg",
+    "title": "Leo",
+    "year": 2023
+  }
+]
